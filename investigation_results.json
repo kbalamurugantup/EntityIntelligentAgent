@@ -1,0 +1,422 @@
+[
+    {
+        "entity": "GRUDGE MATCH MANAGEMENT LTD",
+        "raw_response": "Here's the extracted JSON data:\n\n```json\n{\n    \"name_detected\": \"GRUDGE MATCH MANAGEMENT LTD\",\n    \"registered_office_address\": \"Flat 1 Elsworth Court, 3 Cottonham Close, London, England, N12 9HN\",\n    \"company_status\": \"\",\n    \"company_type\": \"Private limited Company\",\n    \"incorporation_date\": \"13 December 2018\",\n    \"accounts_next\": \"5 April 2025\",\n    \"accounts_last\": \"5 April 2024\",\n    \"confirmation_statement_next\": \"22 March 2026\",\n    \"confirmation_statement_last\": \"22 March 2025\",\n    \"nature_of_business_sic\": \"70229 - Management consultancy activities other than financial management\",\n    \"people_associated\": [\n        {\n            \"full_name\": \"ROBERTS, Kenneth\",\n            \"role\": \"\",\n            \"status\": \"\",\n            \"appointment_date\": \"13 December 2018\",\n            \"resignation_date\": \"\",\n            \"correspondence_address\": \"Flat 1 Elsworth Court, 3 Cottonham Close, London, England, N12 9HN\"\n        },\n        {\n            \"full_name\": \"WEBSTER, David\",\n            \"role\": \"\",\n            \"status\": \"\",\n            \"appointment_date\": \"13 December 2018\",\n            \"resignation_date\": \"14 February 2019\",\n            \"correspondence_address\": \"71a, Kirklake Road, Formby, Merseyside, United Kingdom, L37 2DA\"\n        }\n    ]\n}\n```\nThis JSON contains the relevant details of GRUDGE MATCH MANAGEMENT LTD. Note that the 'company_status' and 'people_associated'.status fields were left empty as they were not present in the provided text."
+    },
+    {
+        "name_detected": "79TH GROUP CLIENT LTD",
+        "registered_office_address": "Quantuma Advisory Limited The Lexicon, 10-12 Mount Street, Manchester, M2 5NT",
+        "company_status": "",
+        "company_type": "Private limited Company",
+        "incorporation_date": "24 May 2016",
+        "accounts_next": "31 December 2024",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "22 February 2026",
+        "confirmation_statement_last": "22 February 2025",
+        "nature_of_business_sic": "96090 - Other service activities not elsewhere classified",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Curtis Dean",
+                "role": "",
+                "status": "",
+                "appointment_date": "1 February 2019",
+                "resignation_date": "",
+                "correspondence_address": "Quantuma Advisory Limited, The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "28 May 2020",
+                "resignation_date": "",
+                "correspondence_address": "Quantuma Advisory Limited, The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael",
+                "role": "",
+                "status": "",
+                "appointment_date": "24 May 2016",
+                "resignation_date": "",
+                "correspondence_address": "Quantuma Advisory Limited, The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            }
+        ]
+    },
+    {
+        "name_detected": "HIGHLANDS HIDEAWAY LTD",
+        "registered_office_address": "CG & CO, 27 Byrom Street, Manchester, M3 4PF",
+        "company_status": "In Administration",
+        "company_type": "Private limited Company",
+        "incorporation_date": "29 July 2024",
+        "accounts_next": "31 July 2025 due by 29 April 2026",
+        "accounts_last": "31 July 2025",
+        "confirmation_statement_next": "28 July 2025 due by 11 August 2025",
+        "confirmation_statement_last": "28 July 2025",
+        "nature_of_business_sic": "41100 - Development of building projects",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Curtis",
+                "role": "",
+                "status": "",
+                "appointment_date": "29 July 2024",
+                "resignation_date": "",
+                "correspondence_address": "71 Kirklake Road, Formby, Liverpool, England, L37 2DA"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "29 July 2024",
+                "resignation_date": "",
+                "correspondence_address": "71 Kirklake Road, Formby, Liverpool, England, L37 2DA"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "29 July 2024",
+                "resignation_date": "",
+                "correspondence_address": "71 Kirklake Road, Formby, Liverpool, England, L37 2DA"
+            }
+        ]
+    },
+    {
+        "entity": "79TH CLIENT LIMITED",
+        "raw_response": "Here's the extracted data in valid JSON format:\n\n```json\n{\n  \"name_detected\": \"79TH CLIENT LIMITED\",\n  \"registered_office_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\",\n  \"company_status\": \"not available\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"29 September 2021\",\n  \"accounts_next\": \"31 December 2024\",\n  \"accounts_last\": \"31 December 2023\",\n  \"confirmation_statement_next\": \"28 September 2025\",\n  \"confirmation_statement_last\": \"28 September 2024\",\n  \"nature_of_business_sic\": \"96090 - Other service activities not elsewhere classified\",\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, Curtis Dean, Mr.\",\n      \"role\": \"Company Director\",\n      \"status\": \"not available\",\n      \"appointment_date\": \"29 June 2022\",\n      \"resignation_date\": \"not available\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"Company Director\",\n      \"status\": \"not available\",\n      \"appointment_date\": \"29 June 2022\",\n      \"resignation_date\": \"not available\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"JONES, Philip Thomas\",\n      \"role\": \"Company Director\",\n      \"status\": \"Resigned\",\n      \"appointment_date\": \"29 September 2021\",\n      \"resignation_date\": \"29 June 2022\",\n      \"correspondence_address\": \"9b, Hoghton Street, Southport, England, PR9 0TE\"\n    }\n  ]\n}\n```\n\nPlease note that I have represented \"not available\" for some fields because they were either missing or not explicitly present in the provided snippets. Also, there is no mention of the exact status for Curtis Dean Webster and Jake Michael Webster. Their status seems to be active, but this information is not explicitly mentioned."
+    },
+    {
+        "name_detected": "79TH COMMERCIAL ONE LTD",
+        "registered_office_address": "The Lexicon, 10-12 Mount Street, Manchester, M2 5NT",
+        "company_status": "In Administration",
+        "company_type": "Private limited Company",
+        "incorporation_date": "29 November 2021",
+        "accounts_next": "31 December 2024 due by 30 September 2025",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "28 November 2025 due by 12 December 2025",
+        "confirmation_statement_last": "28 November 2024",
+        "nature_of_business_sic": "96090 - Other service activities not elsewhere classified",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Curtis Dean, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "29 November 2021",
+                "resignation_date": "",
+                "correspondence_address": "The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "31 March 2022",
+                "resignation_date": "",
+                "correspondence_address": "The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "29 November 2021",
+                "resignation_date": "",
+                "correspondence_address": "The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            }
+        ]
+    },
+    {
+        "name_detected": "79TH COMMERCIAL THREE LTD",
+        "registered_office_address": "C/O Kroll Advisory Ltd, The Shard, 32, London Bridge Street, London, SE1 9SG",
+        "company_status": "In Administration",
+        "company_type": "Private limited Company",
+        "incorporation_date": "31 January 2023",
+        "accounts_next": "31 December 2024 due by 30 September 2025",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "30 January 2026 due by 13 February 2026",
+        "confirmation_statement_last": "30 January 2025",
+        "nature_of_business_sic": "96090 - Other service activities not elsewhere classified",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Curtis Dean",
+                "role": "",
+                "status": "",
+                "appointment_date": "31 January 2023",
+                "resignation_date": "",
+                "correspondence_address": "C/O Kroll Advisory Ltd, The Shard, 32, London Bridge Street, London, SE1 9SG"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "31 January 2023",
+                "resignation_date": "",
+                "correspondence_address": "C/O Kroll Advisory Ltd, The Shard, 32, London Bridge Street, London, SE1 9SG"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "31 January 2023",
+                "resignation_date": "",
+                "correspondence_address": "C/O Kroll Advisory Ltd, The Shard, 32, London Bridge Street, London, SE1 9SG"
+            }
+        ]
+    },
+    {
+        "entity": "79TH COMMERCIAL TWO LTD",
+        "raw_response": "Here's the extracted JSON data for the company with the target number 14495240:\n\n```json\n{\n    \"name_detected\": \"79TH COMMERCIAL TWO LTD\",\n    \"registered_office_address\": \"Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\",\n    \"company_status\": \"\",\n    \"company_type\": \"Private limited Company\",\n    \"incorporation_date\": \"21 November 2022\",\n    \"accounts_next\": \"31 December 2024 due by 30 September 2025\",\n    \"accounts_last\": \"31 December 2023\",\n    \"confirmation_statement_next\": \"20 November 2025 due by 4 December 2025\",\n    \"confirmation_statement_last\": \"20 November 2024\",\n    \"nature_of_business_sic\": \"96090 - Other service activities not elsewhere classified\",\n    \"people_associated\": [\n        {\"full_name\": \"WEBSTER, Curtis Dean, Mr.\", \"role\": \"Company Director\", \"status\": \"\", \"appointment_date\": \"21 November 2022\", \"resignation_date\": \"\", \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"},\n        {\"full_name\": \"WEBSTER, David Gary\", \"role\": \"Company Director\", \"status\": \"\", \"appointment_date\": \"21 November 2022\", \"resignation_date\": \"\", \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"},\n        {\"full_name\": \"WEBSTER, Jake Michael, Mr.\", \"role\": \"Company Director\", \"status\": \"\", \"appointment_date\": \"21 November 2022\", \"resignation_date\": \"\", \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"}\n    ]\n}\n```"
+    },
+    {
+        "name_detected": "79TH ELEMENT LIMITED",
+        "registered_office_address": "Pelican House, 119c Eastbank Street, Southport, Merseyside, England, PR8 1DQ",
+        "company_status": "Active— Active proposal to strike off",
+        "company_type": "Private limited Company",
+        "incorporation_date": "24 July 2014",
+        "accounts_next": "31 January 2024",
+        "accounts_last": "31 January 2023",
+        "confirmation_statement_next": "24 July 2025",
+        "confirmation_statement_last": "24 July 2024",
+        "nature_of_business_sic": "07290 - Mining of other non-ferrous metal ores",
+        "people_associated": [
+            {
+                "full_name": "CLARK, Jeremy",
+                "role": "",
+                "status": "",
+                "appointment_date": "31 October 2016",
+                "resignation_date": "",
+                "correspondence_address": "19 Shaftesbury Avenue, Southport, England, PR8 4NH"
+            },
+            {
+                "full_name": "CROSBY-BENIN, Samuel",
+                "role": "",
+                "status": "",
+                "appointment_date": "3 May 2017",
+                "resignation_date": "22 March 2018",
+                "correspondence_address": "Pelican House, 119c Eastbank Street, Southport, Merseyside, PR8 1DQ"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "2 August 2016",
+                "resignation_date": "6 October 2016",
+                "correspondence_address": "Pelican House, 119c Eastbank Street, Southport, Merseyside, PR8 1DQ"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael",
+                "role": "",
+                "status": "",
+                "appointment_date": "24 July 2014",
+                "resignation_date": "31 January 2020",
+                "correspondence_address": "Pelican House, 119c Eastbank Street, Southport, Merseyside, England, PR8 1DQ"
+            }
+        ]
+    },
+    {
+        "name_detected": "79TH GRP ONE LTD",
+        "registered_office_address": "Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ",
+        "company_status": "",
+        "company_type": "Private limited Company",
+        "incorporation_date": "5 August 2020",
+        "accounts_next": "31 December 2024 due by 30 September 2025",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "25 August 2025 due by 8 September 2025",
+        "confirmation_statement_last": "25 August 2024",
+        "nature_of_business_sic": "96090 - Other service activities not elsewhere classified",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "Company Director",
+                "status": "",
+                "appointment_date": "6 August 2020",
+                "resignation_date": "",
+                "correspondence_address": "Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "Company Director",
+                "status": "",
+                "appointment_date": "6 August 2020",
+                "resignation_date": "",
+                "correspondence_address": "Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ"
+            },
+            {
+                "full_name": "JONES, Philip Thomas",
+                "role": "Company Director",
+                "status": "",
+                "appointment_date": "5 August 2020",
+                "resignation_date": "29 June 2022",
+                "correspondence_address": "9b, Hoghton Street, Southport, England, PR9 0TE"
+            }
+        ]
+    },
+    {
+        "name_detected": "79TH GRP THREE LTD",
+        "registered_office_address": "C/O Quantuma Advisory Limited The Lexicon, 10-12 Mount Street, Manchester, M2 5NT",
+        "company_status": "In Administration",
+        "company_type": "Private limited Company",
+        "incorporation_date": "6 August 2020",
+        "accounts_next": "31 December 2024",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "6 January 2026",
+        "confirmation_statement_last": "6 January 2025",
+        "nature_of_business_sic": "96090 - Other service activities not elsewhere classified",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "21 September 2021",
+                "resignation_date": "",
+                "correspondence_address": "C/O Quantuma Advisory Limited, The Lexicon, 10-12 Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "JONES, Philip Thomas",
+                "role": "",
+                "status": "",
+                "appointment_date": "6 August 2020",
+                "resignation_date": "21 September 2021",
+                "correspondence_address": "9b, Hoghton Street, Southport, England, PR9 0TE"
+            }
+        ]
+    },
+    {
+        "entity": "79TH GRP TWO LTD",
+        "raw_response": "Here's the extracted data for the target company:\n\n```json\n{\n  \"name_detected\": \"79TH GRP TWO LTD\",\n  \"registered_office_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\",\n  \"company_status\": \"\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"6 August 2020\",\n  \"accounts_next\": \"31 December 2024\",\n  \"accounts_last\": \"31 December 2023\",\n  \"confirmation_statement_next\": \"25 August 2025\",\n  \"confirmation_statement_last\": \"25 August 2024\",\n  \"nature_of_business_sic\": \"96090 - Other service activities not elsewhere classified\",\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, Curtis Dean, Mr.\",\n      \"role\": \"Company Director\",\n      \"status\": \"\",\n      \"appointment_date\": \"29 June 2022\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"Company Director\",\n      \"status\": \"\",\n      \"appointment_date\": \"29 June 2022\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"JONES, Philip Thomas\",\n      \"role\": \"Company Director\",\n      \"status\": \"\",\n      \"appointment_date\": \"6 August 2020\",\n      \"resignation_date\": \"29 June 2022\",\n      \"correspondence_address\": \"9b, Hoghton Street, Southport, England, PR9 0TE\"\n    }\n  ]\n}\n```\n\nPlease note that the `company_status` field remains empty, as it does not have a value in the given snippet."
+    },
+    {
+        "entity": "79TH LEISURE ONE LTD",
+        "raw_response": "Here's the output in JSON format based on the provided snippets:\n\n```json\n{\n  \"name_detected\": \"79TH LEISURE ONE LTD\",\n  \"registered_office_address\": \"Brook House Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\",\n  \"company_status\": \"Dissolved on 5 August 2025\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"21 November 2023\",\n  \"accounts_next\": \"\",\n  \"accounts_last\": \"\",\n  \"confirmation_statement_next\": \"\",\n  \"confirmation_statement_last\": \"20 November 2024\",\n  \"nature_of_business_sic\": \"68100, 68209, 68320\",\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, Curtis Dean\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"21 November 2023\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, David Gary\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"21 November 2023\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"21 November 2023\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"\n    }\n  ]\n}\n```\n\nNote: The roles and statuses of officers are not explicitly mentioned in the provided snippets, so they are left as empty strings."
+    },
+    {
+        "entity": "79TH LEISURE ONE DEVELOPMENT LIMITED",
+        "raw_response": "Based on the provided snippets, here is the extracted data in JSON format:\n\n```json\n{\n  \"name_detected\": \"79TH LEISURE ONE DEVELOPMENT LIMITED\",\n  \"registered_office_address\": \"Brook House Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\",\n  \"company_status\": \"\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"28 August 2024\",\n  \"accounts_next\": \"31 August 2025due by28 May 2026\",\n  \"accounts_last\": \"31 August 2025\",\n  \"confirmation_statement_next\": \"27 August 2025due by10 September 2025\",\n  \"confirmation_statement_last\": \"27 August 2025\",\n  \"nature_of_business_sic\": [\n    {\n      \"SIC\": \"68100\",\n      \"Description\": \"Buying and selling of own real estate\"\n    },\n    {\n      \"SIC\": \"68209\",\n      \"Description\": \"Other letting and operating of own or leased real estate\"\n    },\n    {\n      \"SIC\": \"68320\",\n      \"Description\": \"Management of real estate on a fee or contract basis\"\n    }\n  ],\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, Curtis Dean\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"28 August 2024\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, David Gary\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"28 August 2024\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"28 August 2024\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\"\n    }\n  ]\n}\n```\n\nHowever, I noticed that the \"company_status\" field in the provided data is blank and the company status is mentioned in the snippets as \"Active\". To add this information, the JSON object would be:\n\n```json\n{\n  \"name_detected\": \"79TH LEISURE ONE DEVELOPMENT LIMITED\",\n  \"registered_office_address\": \"Brook House Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ\",\n  \"company_status\": \"Active\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"28 August 2024\",\n  \"accounts_next\": \"31 August 2025due by28 May 2026\",\n  \"accounts_last\": \"31 August 2025\",\n  \"confirmation_statement_next\": \"27 August 2025due by10 September 2025\",\n  \"confirmation_statement_last\": \"27 August 2025\",\n  \"nature_of_business_sic\": [\n    {\n      \"SIC\": \"68100\",\n      \"Description\": \"Buying and selling of own real estate\"\n    },\n    {\n      \"SIC\": \"68209\",\n      \"Description\": \"Other letting and operating of own or leased real estate\"\n    },\n    {\n      \"SIC\": \"68320\",\n      \"Description\": \"Management of real estate on a fee or contract basis\"\n    }\n  ],\n  \"people_associated\":"
+    },
+    {
+        "name_detected": "79TH LEISURE ONE MANAGEMENT LIMITED",
+        "registered_office_address": "Brook House Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ",
+        "company_status": "",
+        "company_type": "Private limited Company",
+        "incorporation_date": "28 August 2024",
+        "accounts_next": "31 August 2025",
+        "accounts_last": "28 May 2026",
+        "confirmation_statement_next": "27 August 2025",
+        "confirmation_statement_last": "10 September 2025",
+        "nature_of_business_sic": "68100 - Buying and selling of own real estate, 68209 - Other letting and operating of own or leased real estate, 68320 - Management of real estate on a fee or contract basis",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Curtis Dean",
+                "role": "",
+                "status": "",
+                "appointment_date": "28 August 2024",
+                "resignation_date": "",
+                "correspondence_address": "Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "28 August 2024",
+                "resignation_date": "",
+                "correspondence_address": "Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "28 August 2024",
+                "resignation_date": "",
+                "correspondence_address": "Brook House, Southport Business Park, Wight Moss Way, Southport, United Kingdom, PR8 4HQ"
+            }
+        ]
+    },
+    {
+        "entity": "79TH LEISURE TWO DEVELOPMENT LIMITED",
+        "raw_response": "Here is the extracted data in the required format:\n\n```json\n{\n  \"name_detected\": \"79TH LEISURE TWO DEVELOPMENT LIMITED\",\n  \"registered_office_address\": \"The Lexicon 10-12 Mount Street, Manchester, M2 5NT\",\n  \"company_status\": \"In Administration\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"28 August 2024\",\n  \"accounts_next\": \"31 August 2025 due by 28 May 2026\",\n  \"accounts_last\": \"31 August 2025\",\n  \"confirmation_statement_next\": \"27 August 2025 due by 10 September 2025\",\n  \"confirmation_statement_last\": \"27 August 2025\",\n  \"nature_of_business_sic\": \"68100 - Buying and selling of own real estate, 68209 - Other letting and operating of own or leased real estate, 68320 - Management of real estate on a fee or contract basis\",\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, Curtis Dean\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"28 August 2024\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"The Lexicon 10-12, Mount Street, Manchester, M2 5NT\"\n    },\n    {\n      \"full_name\": \"WEBSTER, David Gary\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"28 August 2024\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"The Lexicon 10-12, Mount Street, Manchester, M2 5NT\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"28 August 2024\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"The Lexicon 10-12, Mount Street, Manchester, M2 5NT\"\n    }\n  ]\n}\n```\nNote that the roles of the officers WEBSTER, Curtis Dean, WEBSTER, David Gary, and WEBSTER, Jake Michael, Mr. are not explicitly mentioned in the snippet."
+    },
+    {
+        "entity": "79TH LEISURE TWO MANAGEMENT LIMITED",
+        "raw_response": "Based on the provided snippets, the company is found and the results are extracted as follows. Note that there is no information on accounts_next, confirmation_statement_next, nature_of_business_sic is listed multiple times but only the first one is used in the response and people_associated is empty because the person associated is the company officer but the snippet doesn't contain officer role, status, appointment_date, resignation_date, correspondence_address information so it is empty.\n\n```json\n{\n  \"name_detected\": \"79TH LEISURE TWO MANAGEMENT LIMITED\",\n  \"registered_office_address\": \"The Lexicon 10-12 Mount Street, Manchester, M2 5NT\",\n  \"company_status\": \"In Administration\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"28 August 2024\",\n  \"accounts_last\": \"31 August 2025\",\n  \"accounts_last_due\": \"28 May 2026\",\n  \"confirmation_statement_last\": \"27 August 2025\",\n  \"confirmation_statement_last_due\": \"10 September 2025\",\n  \"nature_of_business_sic\": \"68100 - Buying and selling of own real estate\",\n  \"people_associated\": [\n    {\"full_name\": \"WEBSTER, Curtis\", \"correspondence_address\": \"The Lexicon 10-12, Mount Street, Manchester, M2 5NT\", \"date_of_birth\": \"June 1997\"},\n    {\"full_name\": \"WEBSTER, David Gary\", \"correspondence_address\": \"The Lexicon 10-12, Mount Street, Manchester, M2 5NT\", \"date_of_birth\": \"June 1965\"},\n    {\"full_name\": \"WEBSTER, Jake Michael, Mr.\", \"correspondence_address\": \"The Lexicon 10-12, Mount Street, Manchester, M2 5NT\", \"date_of_birth\": \"March 1993\"}\n  ]\n}\n```"
+    },
+    {
+        "name_detected": "79TH LUXURY LIVING LIMITED",
+        "registered_office_address": "The Lexicon 10-12 Mount Street, Manchester, M2 5NT",
+        "company_status": "In Administration",
+        "company_type": "Private limited Company",
+        "incorporation_date": "24 May 2017",
+        "accounts_next": "30 December 2024due by30 September 2025",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "22 February 2026due by8 March 2026",
+        "confirmation_statement_last": "22 February 2025",
+        "nature_of_business_sic": "68100 - Buying and selling of own real estate",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "",
+                "status": "",
+                "appointment_date": "1 February 2019",
+                "resignation_date": "",
+                "correspondence_address": "The Lexicon 10-12, Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "",
+                "status": "",
+                "appointment_date": "24 May 2017",
+                "resignation_date": "",
+                "correspondence_address": "The Lexicon 10-12, Mount Street, Manchester, M2 5NT"
+            },
+            {
+                "full_name": "KAVANAGH, Lee Raymond",
+                "role": "",
+                "status": "",
+                "appointment_date": "24 May 2017",
+                "resignation_date": "20 March 2018",
+                "correspondence_address": "Pelican House, 119c Eastbank Street, Southport, Merseyside, United Kingdom, PR8 1DQ"
+            }
+        ]
+    },
+    {
+        "entity": "79TH LUXURY LIVING (BIRKENHEAD) LTD",
+        "raw_response": "Based on the provided snippets, here is the extracted information for the target company 79TH LUXURY LIVING (BIRKENHEAD) LTD with company number 12654970:\n\n```json\n{\n  \"name_detected\": \"79TH LUXURY LIVING (BIRKENHEAD) LTD\",\n  \"registered_office_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\",\n  \"company_status\": \"\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"9 June 2020\",\n  \"accounts_next\": \"31 December 2024\",\n  \"accounts_last\": \"31 December 2023\",\n  \"confirmation_statement_next\": \"25 August 2025\",\n  \"confirmation_statement_last\": \"25 August 2024\",\n  \"nature_of_business_sic\": \"68100 - Buying and selling of own real estate\",\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, David Gary\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"9 June 2020\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"9 June 2020\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    }\n  ]\n}\n```\n\nNote: Some fields were left empty as they were not explicitly provided in the snippets."
+    },
+    {
+        "entity": "79TH LUXURY LIVING EIGHT LTD",
+        "raw_response": "Based on the provided snippets, here is the extracted information in JSON format:\n\n```json\n{\n  \"name_detected\": \"79TH LUXURY LIVING EIGHT LTD\",\n  \"registered_office_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\",\n  \"company_status\": \"\",\n  \"company_type\": \"Private limited Company\",\n  \"incorporation_date\": \"14 February 2025\",\n  \"accounts_next\": \"28 February 2026 due by 14 November 2026\",\n  \"accounts_last\": \"28 February 2026 (14 November 2026)\",\n  \"confirmation_statement_next\": \"13 February 2026 due by 27 February 2026\",\n  \"confirmation_statement_last\": \"13 February 2026 (27 February 2026)\",\n  \"nature_of_business_sic\": \"96090 - Other service activities not elsewhere classified\",\n  \"people_associated\": [\n    {\n      \"full_name\": \"WEBSTER, Curtis Dean, Mr.\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"14 February 2025\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, David Gary\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"14 February 2025\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    },\n    {\n      \"full_name\": \"WEBSTER, Jake Michael, Mr.\",\n      \"role\": \"\",\n      \"status\": \"\",\n      \"appointment_date\": \"14 February 2025\",\n      \"resignation_date\": \"\",\n      \"correspondence_address\": \"Southport Business Park, Wight Moss Way, Southport, England, PR8 4HQ\"\n    }\n  ]\n}\n```\n\nNote: The \"company_status\" field is left empty as it is not explicitly mentioned in the provided snippets. Also, the roles of the individuals are not mentioned, but their appointment dates are provided."
+    },
+    {
+        "name_detected": "79TH LUXURY LIVING FIVE LTD",
+        "registered_office_address": "C/O Kroll Advisory Ltd The Shard, 32 London Bridge Street, London, SE1 9SG",
+        "company_status": "In Administration",
+        "company_type": "Private limited Company",
+        "incorporation_date": "25 July 2022",
+        "accounts_next": "31 December 2024due by30 September 2025",
+        "accounts_last": "31 December 2023",
+        "confirmation_statement_next": "24 July 2025due by7 August 2025",
+        "confirmation_statement_last": "24 July 2024",
+        "nature_of_business_sic": "96090 - Other service activities not elsewhere classified",
+        "people_associated": [
+            {
+                "full_name": "WEBSTER, Curtis Dean, Mr.",
+                "role": "Company Director",
+                "status": "",
+                "appointment_date": "25 July 2022",
+                "resignation_date": "",
+                "correspondence_address": "C/O Kroll Advisory Ltd The Shard, 32 London Bridge Street, London, SE1 9SG"
+            },
+            {
+                "full_name": "WEBSTER, David Gary",
+                "role": "Company Director",
+                "status": "",
+                "appointment_date": "25 July 2022",
+                "resignation_date": "",
+                "correspondence_address": "C/O Kroll Advisory Ltd The Shard, 32 London Bridge Street, London, SE1 9SG"
+            },
+            {
+                "full_name": "WEBSTER, Jake Michael, Mr.",
+                "role": "Company Director",
+                "status": "",
+                "appointment_date": "25 July 2022",
+                "resignation_date": "",
+                "correspondence_address": "C/O Kroll Advisory Ltd The Shard, 32 London Bridge Street, London, SE1 9SG"
+            }
+        ]
+    }
+]
